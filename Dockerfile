@@ -1,1 +1,1 @@
-FROM atendare/evolution-api:latest
+FROM devggh/waha:lates
